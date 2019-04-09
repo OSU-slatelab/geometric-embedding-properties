@@ -1,0 +1,76 @@
+
+=====================================================
+Total Loss for epoch 0: 8551859.53516
+
+=====================================================
+
+=====================================================
+
+=====================================================
+Total Loss for epoch 0: 8530448.16882
+
+=====================================================
+
+=====================================================
+Total Loss for epoch 0: 8571968.55621
+
+=====================================================
+Total Loss for epoch 0: 8549891.00714
+
+=====================================================
+Total Loss for epoch 0: 8590478.18219
+
+=====================================================
+Total Loss for epoch 0: 8574649.39606
+
+=====================================================
+Total Loss for epoch 0: 8568722.65179
+Total Loss for epoch 1: 8559468.47974
+Total Loss for epoch 2: 8567486.38342
+Total Loss for epoch 3: 8590594.6377
+Total Loss for epoch 4: 8544821.3562
+Total Loss for epoch 5: 8592995.742
+Total Loss for epoch 6: 8578478.10492
+Total Loss for epoch 7: 8554449.91589
+Total Loss for epoch 8: 8566184.63635
+Total Loss for epoch 9: 8555693.66339
+Total Loss for epoch 10: 8556067.07343
+Total Loss for epoch 11: 8564985.91357
+Total Loss for epoch 12: 8585378.27734
+Total Loss for epoch 13: 8578888.86768
+Total Loss for epoch 14: 8553974.99884
+Total Loss for epoch 15: 8559894.13867
+Total Loss for epoch 16: 8565867.9585
+Total Loss for epoch 17: 8554129.33612
+Total Loss for epoch 18: 8540871.88684
+Total Loss for epoch 19: 8566153.71436
+Total Loss for epoch 20: 8571641.65332
+Total Loss for epoch 21: 8551211.70905
+Total Loss for epoch 22: 8554464.10785
+Total Loss for epoch 23: 8556809.33075
+Total Loss for epoch 24: 8586674.17834
+Total Loss for epoch 25: 8560427.51172
+Total Loss for epoch 26: 8551369.53033
+Total Loss for epoch 27: 8559009.53351
+Total Loss for epoch 28: 8554296.66779
+Total Loss for epoch 29: 8592052.47717
+Total Loss for epoch 30: 8580989.17456
+Total Loss for epoch 31: 8564294.00031
+Total Loss for epoch 32: 8538512.07715
+Total Loss for epoch 33: 8569344.83075
+Total Loss for epoch 34: 8553980.91278
+Total Loss for epoch 35: 8562018.55621
+Total Loss for epoch 36: 8555050.89868
+Total Loss for epoch 37: 8570842.09058
+Total Loss for epoch 38: 8565058.21185
+Total Loss for epoch 39: 8556834.4184
+Total Loss for epoch 40: 8548839.48401
+Total Loss for epoch 41: 8569925.02563
+Total Loss for epoch 42: 8560894.6861
+Total Loss for epoch 43: 8575312.78705
+Total Loss for epoch 44: 8547017.18201
+Total Loss for epoch 45: 8583685.63898
+Total Loss for epoch 46: 8557860.59222
+Total Loss for epoch 47: 8590158.44189
+Total Loss for epoch 48: 8562743.1369
+Total Loss for epoch 49: 8575163.33405
