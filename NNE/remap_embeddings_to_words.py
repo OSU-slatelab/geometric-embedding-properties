@@ -6,7 +6,7 @@ new embedding file.
 
 import codecs
 import pyemblib
-from dng_logger import log
+from hedgepig_logger import log
 
 def readVocab(f):
     vocab = []

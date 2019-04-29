@@ -9,7 +9,7 @@ import codecs
 import os
 from nearest_neighbors import NearestNeighbors
 import pyemblib
-from dng_logger import log
+from hedgepig_logger import log
 
 class _SIGNALS:
     HALT = -1

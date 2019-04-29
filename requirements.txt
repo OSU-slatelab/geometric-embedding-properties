@@ -1,3 +1,3 @@
 pyemblib
-dng-logger
+hedgepig-logger
 tensorflow>=1.2.0

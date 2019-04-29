@@ -12,7 +12,7 @@ changes are made in graph generation:
    sample files were v is a nearest neighbor of w.
 '''
 
-from dng_logger import log
+from hedgepig_logger import log
 
 def readNeighbors(samplef, k):
     neighborhoods = {}
